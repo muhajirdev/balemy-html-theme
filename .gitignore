@@ -1,0 +1,7 @@
+# Ignore Assets #
+/assets/*
+
+# Exclude flat-ui dist #
+!assets/flat-ui
+/assets/flat-ui/*
+!/assets/flat-ui/dist

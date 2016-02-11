@@ -1,0 +1,6 @@
+{
+  "name": "balemy-html-theme",
+  "dependencies": {
+    "flat-ui": "~2.2.2"
+  }
+}
